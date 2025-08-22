@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 # 🎿 Ski Game
 
 A fun skiing game built with **Unity** using **C#**, where the player navigates down a snowy slope, avoids obstacles, and collects snowflakes for points.
 
----
+
 
 ## 📌 Features
 - Sloped ground with realistic skiing effect
@@ -40,6 +40,4 @@ A fun skiing game built with **Unity** using **C#**, where the player navigates 
 1. Download the repository:
    ```bash
    git clone https://github.com/tejasri-k9/Ski-Game.git
-=======
-# Ski-Game
->>>>>>> 14eb3cb8a5119289c735b41b1e40b49593eb832e
+
